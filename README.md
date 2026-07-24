@@ -2,6 +2,32 @@
 
 A web-based Student Result Management System developed using PHP and MySQL.
 
+## 📸 Final Outcome
+
+Login.php
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/login.png)
+
+Forgot_password.php
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/forgot_password.png)
+
+Dashboard.php
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/dashboard.png)
+
+Index.php
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/index.png)
+
+Search.php
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/search.png)
+
+Result
+
+![image alt](https://github.com/SheetalSolankii/Student_Result_System/blob/main/result.png)
+
 ## Features
 
 - Admin Login
